@@ -15,7 +15,7 @@ Default pixels colors:
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) Seconds
 - ![#FFFFFF](https://via.placeholder.com/15/000000/000000?text=+) Empty
 
-There are two mode
+There are two modes
 
 - `0` Show all the pixels stacked, cycle matrix displays if necessary
 - `1` Only show the highest time unit's pixels
@@ -65,7 +65,7 @@ The script closes when the datetime is reached
 
 This will be tested at this new year's eve
 
-I will report to you how it palyed out
+I will report to you how it played out
 
 
 
